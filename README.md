@@ -1,9 +1,6 @@
 # 计算机统考408历年真题
 
-<img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/pku.jpg" height="200" width="200">         
-<img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/fdu.png" width="200">         
-<img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/zju.jpg" height="200" width="200">
-<img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/sjtu.jpg" height="200" width="200">
+<img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/pku.jpg" height="200" width="200">         <img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/fdu.png" width="200">         <img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/zju.jpg" height="200" width="200"><img src="https://github.com/gongpx20069/Postgraduate-408-exam/blob/master/img/sjtu.png" height="200" width="200">
 
 **目录中只有部分408的真题（不想下Git，用网页版有文件大小限制），不过好在Release没有文件大小限制，我就发布到Release中了。**
 
